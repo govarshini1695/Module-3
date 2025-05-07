@@ -9,7 +9,7 @@ To write a Python program that matches a string that has an 'a' followed by anyt
 
 ### ALGORITHM
 
-1. Begin the program.  
+Begin the program.  
 2.Take user input as a string (s).
 3.Define the regex pattern r"a.*b$": a → Ensures the string contains 'a'.
                                      .* → Matches any sequence of characters (including none).
@@ -17,7 +17,7 @@ To write a Python program that matches a string that has an 'a' followed by anyt
 4.Use the re.search() function to check if s matches the pattern.
 5.If a match is found, print "Found a match!".
 6.Else, print "Not matched!".
-7. Terminate the program.
+7.Terminate the program.
 
 ---
 
