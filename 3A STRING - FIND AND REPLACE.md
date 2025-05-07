@@ -36,4 +36,4 @@ x=str(input())
 
 
 ### RESULT
-Thus the Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user.
+Thus the Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user is done successfully .
