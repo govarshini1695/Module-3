@@ -39,4 +39,4 @@ else:
 
 
 ### RESULT
-Thus a Python program that matches a string that has an 'a' followed by anything, ending in 'b'. 
+Thus a Python program that matches a string that has an 'a' followed by anything, ending in 'b' is executed successfully. 
